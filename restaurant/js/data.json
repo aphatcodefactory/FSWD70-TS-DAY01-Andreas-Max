@@ -1,0 +1,39 @@
+var products = [
+	{
+		"id"		:	1,
+		"type"		:	"speise",
+		"name"		:	"Wr. Schnitzel mit Erdäpfelsalat",
+		"price"		:	23.50,
+		"allergens"	:	"A, C, P"
+	},{
+		"id"		:	2,
+		"type"		:	"speise",
+		"name"		:	"Forelle Müllerin",
+		"price"		:	15.20,
+		"allergens"	:	"P"
+	},{
+		"id"		:	3,
+		"type"		:	"speise",
+		"name"		:	"Berner Würstel mit Pommes & Zwiebelsenf",
+		"price"		:	10.90,
+		"allergens"	:	"P, Y, Z"
+	},{
+		"id"		:	4,
+		"type"		:	"drinks",
+		"name"		:	"Coca Cola 0,33l",
+		"price"		:	3.50,
+		"allergens"	:	"A"
+	},{
+		"id"		:	5,
+		"type"		:	"drinks",
+		"name"		:	"Bier 0,5l",
+		"price"		:	4.10,
+		"allergens"	:	"Ö"
+	},{
+		"id"		:	6,
+		"type"		:	"drinks",
+		"name"		:	"Soda Himbeer 0,5l",
+		"price"		:	3.80,
+		"allergens"	:	"Z"
+	}
+];
